@@ -6,7 +6,7 @@ Takım X
 
 ## Takım Elemanları
 
-- Mervenur Yılmaz: Product Owner
+- Merve Nur Yılmaz: Product Owner
 - Edanur Kutay: Scrum Master
 - Samet Salih Türk: Team Member/Developer
 - Mücahid İnan: Team Member/Developer
