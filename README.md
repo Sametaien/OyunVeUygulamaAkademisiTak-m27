@@ -6,17 +6,19 @@ Takım X
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Mervenur Yılmaz: Product Owner
+- Edanur Kutay: Scrum Master
+- Samet Salih Türk: Team Member/Developer
+- Mücahid İnan: Team Member/Developer
+- Karya Kazancı: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+--Belirlenicek--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- 
 
 ## Ürün Özellikleri
 
