@@ -14,7 +14,7 @@ Takım Ventisette
 
 ## Ürün İsmi
 
---Aphelion--
+-Aphelion-
 
 ## Ürün Açıklaması
 
